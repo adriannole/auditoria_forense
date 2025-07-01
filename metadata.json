@@ -1,0 +1,4 @@
+{
+  "name": "Analizador Forense de Imágenes",
+  "description": "Una herramienta web avanzada para subir imágenes, extraer y mostrar metadatos EXIF, visualizar coordenadas GPS en un mapa interactivo y exportar un informe forense completo en PDF."
+}
